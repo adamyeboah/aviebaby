@@ -195,9 +195,11 @@ h2.title {
     margin-bottom: -10px;
 }
 
+/*
 .button:last-of-type img {
     filter: contrast(0.7);
 }
+*/
 
 .button-icon {
     position: absolute;
