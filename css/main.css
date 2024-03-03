@@ -48,7 +48,7 @@ body {
 .name {
     letter-spacing: -0.5px;
     color: #fff;
-    font-size: 24px;
+    font-size: 16px;
     margin: 16px 0 0 0;
 }
 
@@ -85,6 +85,11 @@ h2.title {
 .apply .bio {
     font-weight: 600;
     color: #fff;
+}
+
+.bio {
+    text-align: center;
+    margin-bottom: 12px;
 }
 
 .divider {
